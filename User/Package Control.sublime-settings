@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"CoffeeScriptHaml",
+		"Python PEP8 Autoformat",
+		"Ruby on Rails snippets",
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json",
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}

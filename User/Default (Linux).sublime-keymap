@@ -1,0 +1,17 @@
+[
+    {
+        "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.5,
+            "activate": true,
+            "browsers" : ["chrome"]
+        }
+    },
+    {
+	  "keys": ["ctrl+alt+t"],
+	  "command": "open_terminal",
+	  "args": {
+	    "parameters": ["-T", "Working in directory %CWD%"]
+	 	}
+	}
+]
